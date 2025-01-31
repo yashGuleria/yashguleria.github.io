@@ -6,6 +6,11 @@ work at the intersection of machine learning, optimization, and air traffic cont
 
 Currently, I am working with a team of 3 scientists on using large language models to generate safety-critical scenarios in the en-route phase of the aircraft. The primary motivation for this work stems from the scarcity of conflict scenarios in the historical data and the complexity and iterations involved in creating such scenarios, and the difficulty in customization and interactive enhancement of the traffic scenarios using traditional techniques. The overall idea is :
 
+![The overall concept diagram](Scenario_gen_diagram.png)
+
+the detailed methodology adopted is as follows:
+
+![Text2Traffic Methodology: Based on user input, Text2Traffic leverages Retrieval-Augmented Generation (RAG) to extract relevant sector information, including airways, waypoints, and aircraft types, from a domain-specific document, enabling the generation of the requested air traffic scenario](methodology_1.png)
 
 
 The GitHub repository: https://github.com/yashGuleria/LLMs_For_Scenario_Generation
