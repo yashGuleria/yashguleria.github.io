@@ -1,19 +1,20 @@
 # Hi!
-### (Apologies, I am refurbishing this page)
+
 
 I am Yash. I am currently a research fellow at the Air Traffic Management Research Institute, Nanyang Technological University Singapore. Here, I 
 work at the intersection of machine learning, optimization, and air traffic control, with the aim to address the near future air traffic demands.
 
 Currently, I am working with a team of 3 scientists on using large language models to generate safety-critical scenarios in the en-route phase of the aircraft. The primary motivation for this work stems from the scarcity of conflict scenarios in the historical data and the complexity and iterations involved in creating such scenarios, and the difficulty in customization and interactive enhancement of the traffic scenarios using traditional techniques. The overall idea is :
+<div align="center">
+  <img src="Scenario_gen_diagram.png" alt="The overall concept diagram" width="650">
+</div>
 
-![The overall concept diagram](Scenario_gen_diagram.png)
-
-the detailed methodology adopted is as follows:
+The detailed methodology adopted is as follows:
 
 ![Text2Traffic Methodology: Based on user input, Text2Traffic leverages Retrieval-Augmented Generation (RAG) to extract relevant sector information, including airways, waypoints, and aircraft types, from a domain-specific document, enabling the generation of the requested air traffic scenario](methodology_1.png)
 
 
-The GitHub repository: https://github.com/yashGuleria/LLMs_For_Scenario_Generation
+The GitHub repository: [Scenario_generation](https://github.com/yashGuleria/LLMs_For_Scenario_Generation)
 
 ## A few past projects:
 
@@ -36,10 +37,11 @@ The GitHub repository: https://github.com/yashGuleria/LLMs_For_Scenario_Generati
 
 ## Workshops and Tutorials
 ### International Conference on Research in Air Transportation (ICRAT 2024)
-* Local organizing committee member for the $11^{th}$ International Conference on Research in Air Transportation (ICRAT 2024).
+* Local organizing committee member for the 11<sup>the</sup> International Conference on Research in Air Transportation (ICRAT 2024).
 
 
-### Applications of Reinforcement learning in ATM/ANS}{\textit{European Union Aviation Safety Agency (EASA), Cologne, Germany, Sept 11 -- Sept 13 2023
+### Applications of Reinforcement learning in ATM/ANS: 
+*European Union Aviation Safety Agency (EASA)*, Cologne, Germany, Sept 11 - Sept 13 2023
 * Delivered a 3-day training course and workshop at the EASA headquarters in Cologne, Germany, on the foundations of reinforcement learning and its applications in air traffic conflict detection and resolution.}
 
 ### Human-AI Hybrid Teaming in ATM: Overcoming Barriers and Charting the Path Forward, Nanyang Technological University, Singapore
@@ -48,6 +50,5 @@ The GitHub repository: https://github.com/yashGuleria/LLMs_For_Scenario_Generati
 
 
 ## Other activities:
-
-
+I enjoy working out early mornings 5-6 times a week. Apart from that I love music  and am intrigued by the pace at which AI is evolving.
 
